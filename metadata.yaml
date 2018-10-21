@@ -1,5 +1,5 @@
 _repo: The-Merry-Wives-of-Windsor_1781
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Windsor (Berkshire, England) -- Drama'
 - !lcsh 'Falstaff, John, Sir (Fictitious character) -- Drama'
+- GITenberg
 title: The Merry Wives of Windsor
 url: http://www.gutenberg.org/ebooks/1781
